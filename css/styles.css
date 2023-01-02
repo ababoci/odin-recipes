@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+h1 {
+    color: brown;
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
