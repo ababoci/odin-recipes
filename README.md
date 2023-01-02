@@ -1,6 +1,6 @@
 # odin-recipes
 
-https://www.theodinproject.com/lessons/foundations-recipes
+https://www.theodinproject.com/lessons/foundations-recipes  
 The Odin Project  
 Project: Recipes  
 
